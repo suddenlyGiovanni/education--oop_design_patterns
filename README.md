@@ -1,4 +1,4 @@
-# education-oop_design_patterns
+# education--oop_design_patterns
 
 A personal exploration project of the most common design patterns of Object Oriented Programming from the 'gang of four' implemented with TypeScript.
 
