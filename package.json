@@ -5,7 +5,7 @@
   "author": "suddenlyGiovanni <ravalico.giovanni@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ts-node": "^8.0.3",
+    "ts-node": "^8.6.2",
     "typescript": "^3.4.3"
   },
   "devDependencies": {
